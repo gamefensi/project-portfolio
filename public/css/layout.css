@@ -22,7 +22,10 @@
 /* a. General Styles
 /* ------------------------------------------------------------------ */
 
-body { background: #0f0f0f; }
+body { 
+  background: #0f0f0f; 
+  font-size: "1.5rem";
+}
 
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
@@ -125,7 +128,7 @@ header .scrolldown a:hover { color: #0762f9; }
 
 /* nav-wrap */
 #nav-wrap {
-   font: 12px 'opensans-bold', sans-serif;
+   font: 16px 'opensans-bold', sans-serif;
    width: 100%;
    text-transform: uppercase;
    letter-spacing: 2.5px;
@@ -412,7 +415,7 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #ebeeee;
+   background: #000524;
    padding-top: 90px;
    padding-bottom: 60px;
 }

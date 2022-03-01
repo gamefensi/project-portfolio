@@ -9,7 +9,7 @@
 		"github": "https://github.com/gamefensi",
 		"address": {
 			"city": "Anaheim",
-			"state": "California"
+			"state": "CA"
 		},
 		"website": "#",
 		"resumedownload": "https://drive.google.com/file/d/1DAHcDZ8f8ChqUbhOEy2igBHqRxpoJStU/view?usp=sharing",
@@ -109,9 +109,9 @@
 		"projects": [
 			{
 				"title": "Lette's Coffee App",
-				"category": "Website I built as a minimum viable product for my family's business. This is my final project for the Full Stack Coding Bootcamp",
+				"category": "Website I built as a minimum viable product for my family's business. This was my final project for full stack bootcamp.",
 				"image": "01.jpg",
-				"url": "https://github.com/gamefensi/LettesCoffee",
+				"url": "https://lettes-coffee.netlify.app/",
         "source": "https://github.com/gamefensi/LettesCoffee"
 			},
 			{
